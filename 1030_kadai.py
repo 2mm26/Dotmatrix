@@ -1,8 +1,3 @@
-'''
-23261089
-毛利仁香
-'''
-
 import streamlit as st
 
 from Bio import SeqIO
